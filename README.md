@@ -1,5 +1,7 @@
 # EDA
-Pipeline to make exploratory data analysis 
+This notebook is made to permit users to explore quickly their data. The goal is to automatize this part of the lifecycle to provide insights and intuitions about the data. So the notebook uses pandas-profiling, and dataprep.eda to facilitate the exploration. Next, the different parts explore the feature importance and feature extraction with different methods and algorithms.
+
+ 
 
 ## Content
 - Sand box to load and clean data
