@@ -8,6 +8,7 @@ This notebook is made to permit users to explore quickly their data. The goal is
 - EDA
 	- pandas-profiling
 	- Dataprep EDA
+	- Sweetviz to analyze data
 	- Target identification
 - Feature selection
 	- Removing features with low variance
