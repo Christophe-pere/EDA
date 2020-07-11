@@ -14,6 +14,7 @@ This notebook is made to permit users to explore quickly their data. The goal is
 	- Removing features with low variance
 	- Univariate Selection
 	- Recursive Feature Elimination (RFE)
+	- SelectFromModel
 - Feature Extraction
 	- Principal Component Analysis (PCA)
 	- Independent Component Analysis (ICA)
